@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Celine
 - 👀 I’m interested in financial analysis and data modelling
 - 🌱 I’m currently learning SQL 
-- 📫 How to reach me on LinkedIn (https://www.linkedin.com/in/celine-chen99/)
+- 📫 You can reach me on LinkedIn (https://www.linkedin.com/in/celine-chen99/)
 
 <!---
 celinechen-99/celinechen-99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
